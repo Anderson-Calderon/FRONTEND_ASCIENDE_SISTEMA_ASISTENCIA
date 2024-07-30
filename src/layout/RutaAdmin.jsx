@@ -27,7 +27,7 @@ const RutaAdmin = ()=>{
 
 			{
 
-				!auth._id ? (
+				auth._id ? (
 
 								<>
 
